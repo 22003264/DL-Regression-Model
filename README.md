@@ -40,21 +40,10 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:
-
-### Register Number:
-
-```python
-class Model(nn.Module):
-    def __init__(self, in_features, out_features):
-        super().__init__()
-        #Include your code here
+### Name:Onteddu Sirisha Reddy
+### Register Number:212222230103
 
 
-
-# Initialize the Model, Loss Function, and Optimizer
-
-```
 
 ### Dataset Information
 Include screenshot of the generated data
